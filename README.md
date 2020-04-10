@@ -1,2 +1,2 @@
-# MyFirstGitRepo
-MyFirstGitRepo is my first git repository. This repo will be deleted after a few months once i am confident in working with Git
+# First Branch of MyFirstGitRepo
+This is first Branch of MyFirstGitRepo repository. The only perpouse of this branch is o learn branching in Github.
